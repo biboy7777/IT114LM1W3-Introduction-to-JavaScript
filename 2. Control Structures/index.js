@@ -56,7 +56,8 @@ let toDisplay = randomNumber % 2 === 0 ? "Even" : "Odd";
 console.log("toDisplay:", toDisplay);
 
 // Checkpoint 2.1 How do you use switch statements and when would you use them? Try researching the answer
-// Answer: Switch statements are used over else-if to make the code easier to read/understand and not overcomplicate the conditions.
+// Answer: Switch statements are used over else-if to make the code easier to read/understand and not overcomplicate the conditions. Personally however,
+// I have gotten use to only using else if statements as I have more control over it than with switch statement.
 
 // TODO 2.5 Use a for loop to print the numbers 1 to N
 const n = 10

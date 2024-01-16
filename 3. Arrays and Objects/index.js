@@ -32,7 +32,7 @@ console.log("The min is:", minNumber)
 console.log("The max is:", maxNumber)
 console.log("The average is:", average)
 // Checkpoint 3.1 How would you compare lists in python vs arrays in JavaScript
-// Answer: I think so far, I believe that they are actually pretty similar and I guess you could say that
+// Answer: I think so far, I believe that they are actually pretty similar, except for the fact that in python, you can have different types of data in it (list) while in an array in JavaScrpit, you can only have one data type
 
 // Todo 3.3 Declare an object with information about IT114L (course code, name, units, number of students)
 // Your code here
